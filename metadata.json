@@ -1,0 +1,6 @@
+{
+  "name": "CampusPulse - College FAQ & Student Services Assistant",
+  "description": "Interactive AI-powered college FAQ assistant providing instant answers about campus services, financial aid, housing, registrar, clubs, dining, and campus life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
